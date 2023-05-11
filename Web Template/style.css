@@ -15,7 +15,7 @@ html, body
     min-height: 100vh;
     background: #2d2d2d;
     height: 130%;
-    width: 100%; 
+    width: 100%; /*change the height according to the website to make the nav bar work*/
 }    
 
 nav ul{
